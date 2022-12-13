@@ -16,6 +16,7 @@ terraform {
 
     workspaces {
       name = "gh-actions-demo"
+      #Adding a comment
     }
   }
 }
